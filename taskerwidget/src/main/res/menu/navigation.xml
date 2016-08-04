@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/action_sort_quotes_group">
+        <item
+            android:id="@+id/action_sort_quotes"
+            android:orderInCategory="1"
+            android:title="@string/action_sort"
+            app:showAsAction="always">
+            <menu>
+                <item android:id="@+id/action_sort_quotes_name_asc"
+                    android:title="@string/sort_name_asc" />
+                <item android:id="@+id/action_sort_quotes_name_desc"
+                    android:title="@string/sort_name_desc" />
+                <item android:id="@+id/action_sort_quotes_date_asc"
+                    android:title="@string/sort_date_asc" />
+                <item android:id="@+id/action_sort_quotes_date_desc"
+                    android:title="@string/sort_date_desc" />
+            </menu>
+        </item>
+    </group>
+
+    <group android:id="@+id/action_sort_users_group">
+
+        <item
+        android:id="@+id/action_sort_users"
+        android:orderInCategory="1"
+        android:title="@string/action_sort"
+        app:showAsAction="always">
+            <menu>
+                <item android:id="@+id/action_sort_users_name_asc"
+                    android:title="@string/sort_name_asc" />
+                 <item android:id="@+id/action_sort_users_name_desc"
+                    android:title="@string/sort_name_desc" />
+                <item android:id="@+id/action_sort_users_id_asc"
+                    android:title="@string/sort_id_asc" />
+                <item android:id="@+id/action_sort_users_id_desc"
+                    android:title="@string/sort_id_desc" />
+                <item android:id="@+id/action_sort_users_quotes_asc"
+                    android:title="@string/sort_count_asc" />
+                <item android:id="@+id/action_sort_users_quotes_desc"
+                    android:title="@string/sort_count_desc" />
+            </menu>
+        </item>
+    </group>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

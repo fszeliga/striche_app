@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_charts"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Charts" />
+        <item
+            android:id="@+id/nav_users"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="Users" />
+        <item
+            android:id="@+id/nav_all_quotes"
+            android:icon="@drawable/ic_view_headline_black_24dp"
+            android:title="All Quotes" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+    </group>
+
+    <item android:title="Commands">
+        <menu>
+            <item
+                android:id="@+id/nav_sync"
+                android:icon="@drawable/ic_refresh_black_24dp"
+                android:title="Sync" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>

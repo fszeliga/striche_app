@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.szeliga.android.taskerwidget.app_fragments.AddUser">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add User"
+        android:id="@+id/btnAddUser"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_below="@+id/editTextAddUser"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:id="@+id/btnCancelAddUser"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_alignTop="@+id/btnAddUser"
+        android:layout_alignEnd="@+id/editTextAddUser" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="User Name"
+        android:ems="10"
+        android:id="@+id/editTextAddUser"
+        android:textColor="@color/textColorListSecondary"
+        android:layout_alignParentTop="true"/>
+
+</RelativeLayout>

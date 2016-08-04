@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png",
+        "source": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png"
+    },
+    {
+        "merged": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_help.png",
+        "source": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_save.png",
+        "source": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\drawable-ldpi-v14\\twofortyfouram_locale_ic_menu_save.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_help.png",
+        "source": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_save.png",
+        "source": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_save.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png",
+        "source": "D:\\Projects\\Android\\workspace\\TaskerWidget\\localeapi\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v14\\twofortyfouram_locale_ic_menu_dontsave.png"
+    }
+]

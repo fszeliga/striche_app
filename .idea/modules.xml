@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaskerWidget.iml" filepath="$PROJECT_DIR$/TaskerWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/localeapi/localeapi.iml" filepath="$PROJECT_DIR$/localeapi/localeapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taskerwidget/taskerwidget.iml" filepath="$PROJECT_DIR$/taskerwidget/taskerwidget.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 64,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 64,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 60,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 60,
+                        "endOffset": 221
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 60,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 60,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 58,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 58,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 346,
+                    "endColumn": 56,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 56,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 51,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 51,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 109,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 109,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endColumn": 113,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 113,
+                        "endOffset": 506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 70,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 511,
+                        "endColumn": 70,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endColumn": 64,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 64,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 64,
+                    "endOffset": 875
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 64,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 880,
+                    "endColumn": 60,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 60,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 92,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 92,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endColumn": 67,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "D:\\Projects\\swProjects\\Android\\TaskerWidget\\taskerwidget_plugin\\build\\intermediates\\exploded-aar\\TaskerWidget\\localeapi\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 67,
+                        "endOffset": 929
+                    }
+                }
+            }
+        ]
+    }
+]

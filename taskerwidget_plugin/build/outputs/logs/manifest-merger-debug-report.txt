@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:21:1-63:12
+	package
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:23:5-54
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:26:5-30
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:22:5-51
+	android:versionCode
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:25:5-31
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:21:11-69
+	android:installLocation
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:24:5-43
+uses-sdk
+ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:29:5-31:41
+MERGED from [TaskerWidget:localeapi:unspecified] D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\build\intermediates\exploded-aar\TaskerWidget\localeapi\unspecified\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:31:9-38
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:30:9-34
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+		INJECTED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:34:5-36:36
+MERGED from [TaskerWidget:localeapi:unspecified] D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\build\intermediates\exploded-aar\TaskerWidget\localeapi\unspecified\AndroidManifest.xml:9:5-11:36
+	android:required
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:36:9-33
+	android:name
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:35:9-52
+supports-screens
+ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:39:5-44:40
+	android:largeScreens
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:41:9-36
+	android:smallScreens
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:43:9-36
+	android:normalScreens
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:42:9-37
+	android:xlargeScreens
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:44:9-37
+	android:anyDensity
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:40:9-34
+application
+ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:47:5-61:19
+	android:label
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:52:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:50:9-43
+	android:uiOptions
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:54:9-53
+	android:allowBackup
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:49:9-35
+	android:icon
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:51:9-45
+	android:theme
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:53:9-49
+	android:name
+		ADDED from D:\Projects\swProjects\Android\TaskerWidget\taskerwidget_plugin\src\main\AndroidManifest.xml:48:9-73

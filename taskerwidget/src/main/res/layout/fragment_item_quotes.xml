@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/list_selector"
+    android:divider="#FFCC00"
+    android:dividerHeight="4px"
+    android:clickable="true"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:layout_marginBottom="1dp">
+
+    <GridLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:rowCount="2"
+        android:columnCount="3">
+
+        <TextView
+            android:id="@+id/textview_quote"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:text="Quote"
+            android:layout_column="0"
+            android:layout_columnSpan="3"
+            android:textColor="@color/textColorListPrimary" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="name"
+            android:id="@+id/textView_quote_name"
+            android:textColor="@color/textColorListPrimary" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="date"
+            android:id="@+id/textView_quote_date"
+            android:layout_column="2"
+            android:textColor="@color/textColorListPrimary" />
+    </GridLayout>
+
+</LinearLayout>
